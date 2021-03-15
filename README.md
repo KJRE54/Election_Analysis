@@ -3,7 +3,6 @@
 ## **Overview of Election Audit**
 ### Purpose
 The purpose of this election audit will be to perform an analysis data set which is the result of the election. The analysis will result in delivering the voter turnout and election race winner results to the election committee for validation.
-![Module3PyPollTerminalResults](https://user-images.githubusercontent.com/79073778/111101194-c6292e00-851f-11eb-8dfb-4ebd3dfcc27a.png)
 
 
 ## Election Audit Results
@@ -22,6 +21,8 @@ The purpose of this election audit will be to perform an analysis data set which
 
 - Diane DeGette was the clear winner in this election contest winning 73.8% of the overall total vote with 272,892 votes.
 
+![Module3PyPollTerminalResults](https://user-images.githubusercontent.com/79073778/111101194-c6292e00-851f-11eb-8dfb-4ebd3dfcc27a.png)
+
 
 ## Election Audit Summary
 This script can be used by the election commission across other multiple counties in the state. They would have to
@@ -29,3 +30,4 @@ append more data to the election data set.  They could also include more informa
 affiliation to give a more robust view of the type of voters that support the candidates.
 
 
+![Module3ChallengeVSCode](https://user-images.githubusercontent.com/79073778/111101610-a6463a00-8520-11eb-94a9-df091911fa8c.png)
